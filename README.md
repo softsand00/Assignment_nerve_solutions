@@ -1,9 +1,11 @@
-##Objective
+## Objective
+
 This assignment has the objective to build a responsive UI to ensure that users can easily
 interact with the page. Development should be done with best possible optimal solution
 without using any front-end libraries like bootstrap. As well as taking care of debugging.
 
-##Assignment
+## Assignment
+
 • Render a toggle as shown in the image provided in Resources , representing four Views
 (Bullish, Bearish, RangeBound, Volatile). Default selection should be Bullish
 • Render Date dropdown using the dateArray given in Resources. Render the First date as
